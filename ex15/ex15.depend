@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523242111 source:c:\users\natalia\desktop\ex15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+

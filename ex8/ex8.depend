@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523198689 source:c:\users\natalia\desktop\ex8\main.c
+	<stdio.h>
+	<stdlib.h>
+
